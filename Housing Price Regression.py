@@ -10,8 +10,6 @@ House Pricing Regression
 Predicts housing prices based on house area, bedrooms, furnishing,
 and location.
 
-Jodie Cheung
-
 5/5/2026
 
 """
