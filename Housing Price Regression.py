@@ -24,7 +24,7 @@ and location.
 """
 
 # Import data from the folder
-df = pd.read_csv('data//Housing.csv')
+df = pd.read_csv('data/Housing.csv')
 
 # Clean up data
 df.head() # Prints first 5 rows
